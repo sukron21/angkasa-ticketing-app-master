@@ -156,11 +156,12 @@ Contributors names and contact info:
 
 - [Application](https://angkasa-ticketing.vercel.app/)
 
-- [Telegram Chat App](https://github.com/sukron21/angkasa-ticketing-app-master)
+- [Angkasa Frontend](https://github.com/sukron21/angkasa-ticketing-app-master)
 
-- [Telegram Chat API](https://github.com/sukron21/angkasa-ticketing-api-master)
+- [Telegram Backend](https://github.com/sukron21/angkasa-ticketing-api-master)
 
 - [Linkedin](www.linkedin.com/in/furqon-rahmat)
+
 
 
 

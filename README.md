@@ -155,7 +155,7 @@ Contributors names and contact info:
 
 - [Angkasa Backend](https://github.com/sukron21/angkasa-ticketing-api-master)
 
-- [Linkedin](www.linkedin.com/in/furqon-rahmat)
+
 
 
 
